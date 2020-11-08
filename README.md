@@ -1,2 +1,2 @@
 # basicSticky
-basit service uygulaması
+Basit service uygulaması
